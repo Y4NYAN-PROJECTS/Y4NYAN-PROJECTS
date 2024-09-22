@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Ian Jucar
 ======================================================================================================================================
 
-Web Developer
+Web Developer | Full Stack Developer
 -------------
 
 Student at Technological University of the Philippines, currently taking "Bachelor of Technical Vocational Teacher Education - Major in Information Communication and Technology - Computer Programming"

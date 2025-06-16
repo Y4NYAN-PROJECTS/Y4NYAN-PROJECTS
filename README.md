@@ -6,8 +6,10 @@ Web Developer | Full Stack Developer
 
 Student at Technological University of the Philippines, currently taking "Bachelor of Technical Vocational Teacher Education - Major in Information Communication and Technology - Computer Programming"
 
+Aspiring Web Developer!
+
 * 🖥️  See my portfolio at [MyPortfolio](https://y4nyan-projects.github.io/)
-* ✉️  You can contact me at [paulianjucar2020@gmail.com](mailto:paulianjucar2020@gmail.com)
+* ✉️  You can contact me at [paulianjucar2020@gmail.com](mailto:pauliansolanojucar@gmail.com)
 * 🧠  I'm learning Flutter
 
 ### Skills
